@@ -1,14 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 import numpy as np
 import csv
 import pylab
 import math
-#%matplotlib inline
+
 eeg=[]
 rangee=[]
 percent=0.2
@@ -84,7 +78,6 @@ pylab.show()
 print(artif_time)
 
 
-# In[ ]:
 
 
 
